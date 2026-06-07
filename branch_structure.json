@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "Api",
+    "codeZe-us-patch-1",
+    "dev",
+    "fix/font-rendering-inconsistencies-702",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "Api": "main",
+    "codeZe-us-patch-1": "main",
+    "dev": "main",
+    "fix/font-rendering-inconsistencies-702": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "Api",
+    "codeZe-us-patch-1",
+    "dev",
+    "fix/font-rendering-inconsistencies-702",
+    "origin"
+  ]
+}
